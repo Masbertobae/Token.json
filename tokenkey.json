@@ -2,7 +2,7 @@
   "licenses": [
     {
       "key": "123456",
-      "device_id": "9e947ac4-0204-448a-ae11-16273c39d0f3",
+      "device_id": "Membervip1",
       "expiry_date": "2026-01-01",
       "active": true,
       "status": "active",
@@ -11,7 +11,7 @@
     },
     {
       "key": "alpha@123",
-      "device_id": "b0f4640d-4dc6-4cdd-a543-cc2a0577f33a", 
+      "device_id": "Membervip2", 
       "expiry_date": "2026-02-12",
       "active": true,
       "status": "active",
